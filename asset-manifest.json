@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/pixcel-perfect-ex.git%20/static/css/main.d3f5c7fe.chunk.css",
+    "main.js": "/pixcel-perfect-ex.git%20/static/js/main.008cba8a.chunk.js",
+    "main.js.map": "/pixcel-perfect-ex.git%20/static/js/main.008cba8a.chunk.js.map",
+    "runtime-main.js": "/pixcel-perfect-ex.git%20/static/js/runtime-main.6211e3b6.js",
+    "runtime-main.js.map": "/pixcel-perfect-ex.git%20/static/js/runtime-main.6211e3b6.js.map",
+    "static/js/2.2ee3c949.chunk.js": "/pixcel-perfect-ex.git%20/static/js/2.2ee3c949.chunk.js",
+    "static/js/2.2ee3c949.chunk.js.map": "/pixcel-perfect-ex.git%20/static/js/2.2ee3c949.chunk.js.map",
+    "static/js/3.f3aa8d50.chunk.js": "/pixcel-perfect-ex.git%20/static/js/3.f3aa8d50.chunk.js",
+    "static/js/3.f3aa8d50.chunk.js.map": "/pixcel-perfect-ex.git%20/static/js/3.f3aa8d50.chunk.js.map",
+    "index.html": "/pixcel-perfect-ex.git%20/index.html",
+    "static/css/main.d3f5c7fe.chunk.css.map": "/pixcel-perfect-ex.git%20/static/css/main.d3f5c7fe.chunk.css.map",
+    "static/js/2.2ee3c949.chunk.js.LICENSE.txt": "/pixcel-perfect-ex.git%20/static/js/2.2ee3c949.chunk.js.LICENSE.txt",
+    "static/media/styles.scss": "/pixcel-perfect-ex.git%20/static/media/Montserrat-Regular.3cd78665.ttf",
+    "static/media/avatar-aiysha.e119a0c1.jpg": "/pixcel-perfect-ex.git%20/static/media/avatar-aiysha.e119a0c1.jpg",
+    "static/media/avatar-arthur.098c2e26.jpg": "/pixcel-perfect-ex.git%20/static/media/avatar-arthur.098c2e26.jpg",
+    "static/media/avatar-kady.78fc482c.jpg": "/pixcel-perfect-ex.git%20/static/media/avatar-kady.78fc482c.jpg",
+    "static/media/bg-pattern-home-1.270440fb.svg": "/pixcel-perfect-ex.git%20/static/media/bg-pattern-home-1.270440fb.svg",
+    "static/media/bg-pattern-home-2.889d5d8c.svg": "/pixcel-perfect-ex.git%20/static/media/bg-pattern-home-2.889d5d8c.svg",
+    "static/media/icon-chart.8de3d4d2.svg": "/pixcel-perfect-ex.git%20/static/media/icon-chart.8de3d4d2.svg",
+    "static/media/icon-cog.c5d2403f.svg": "/pixcel-perfect-ex.git%20/static/media/icon-cog.c5d2403f.svg",
+    "static/media/icon-cop.4f49339d.svg": "/pixcel-perfect-ex.git%20/static/media/icon-cop.4f49339d.svg",
+    "static/media/icon-quotes.c5173921.svg": "/pixcel-perfect-ex.git%20/static/media/icon-quotes.c5173921.svg",
+    "static/media/myteam.a539e99f.svg": "/pixcel-perfect-ex.git%20/static/media/myteam.a539e99f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6211e3b6.js",
+    "static/js/2.2ee3c949.chunk.js",
+    "static/css/main.d3f5c7fe.chunk.css",
+    "static/js/main.008cba8a.chunk.js"
+  ]
+}
